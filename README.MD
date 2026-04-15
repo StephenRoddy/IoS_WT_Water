@@ -19,6 +19,6 @@ Please note taht while the prototype is designed for use with headphones, stereo
 #### Shield Connections:
 + p2_shieldConnections.png
 
-#### Video:
-+ Live Sonification.mov
-+ Logged Data Sonification.mov
+#### Video (Zenodo Links:
++ Live Sonification.mov : https://zenodo.org/records/17193530/files/p2_live_son.mov
++ Logged Data Sonification.mov : https://zenodo.org/records/17193530/files/p2_logged_son_2.mov 
